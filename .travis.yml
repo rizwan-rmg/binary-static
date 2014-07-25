@@ -1,4 +1,4 @@
-otifications:
+notifications:
    webhooks:
         urls:
             https://api.ghostinspector.com/v1/suites/53cca1cd711a3fec5f09e94d/execute/?userId=5395815fa5a1cc0571c82a04&apiKey=715d0b078352cf72d0a9ccdf8c9ca5bc1abd8583
